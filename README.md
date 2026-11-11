@@ -23,12 +23,4 @@ Lua scripts.
 
 [All repositories / Все репозитории](https://github.com/tokyotokyo-dev?tab=repositories)
 
-<details>
-<summary>Photo / Фото</summary>
 
-[Cherry-blossom-branch](https://commons.wikimedia.org/wiki/File:Cherry-blossom-branch_(Unsplash).jpg) by Aaron Burden, [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
-
-Cropped and converted to monochrome.  
-Кадрирование и чёрно-белая обработка.
-
-</details>
